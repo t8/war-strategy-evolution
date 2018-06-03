@@ -131,8 +131,7 @@
 
 a.sf-back-to-top {
     text-align: center;
-    padding-left: 2px;
-    padding-top: 4px;    
+    padding-top: 12px;    
 }
 
 a.sf-back-to-top .arrow:before {
@@ -249,6 +248,14 @@ a.sf-back-to-top .arrow:before {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://upload.wikimedia.org/wikipedia/commons/3/3b/Lamplough%27s_two-stroke_engine_%28Rankin_Kennedy%2C_Modern_Engines%2C_Vol_V%29.jpg") center center no-repeat;
   background-size: cover;
 }
+.timeline-item:nth-child(5) .timeline-img-header {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://weaponsandwarfare.files.wordpress.com/2015/08/fuse65e-300-low.jpg") center center no-repeat;
+  background-size: cover;
+}
+.timeline-item:nth-child(6) .timeline-img-header {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://upload.wikimedia.org/wikipedia/commons/e/e0/Nagasakibomb.jpg") bottom center no-repeat;
+  background-size: cover;
+}
 
 .timeline-img-header {
   height: 200px;
@@ -327,6 +334,27 @@ blockquote {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+#radar-1 {
+  background: url(http://www.saturdaynightuforia.com/html/articles/articleimages/tsrt-scr270a.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+}
+
+#radar-2 {
+  background: url(https://1.bp.blogspot.com/-M7iDSsoA6_g/V8jmRT8R6AI/AAAAAAAAK4w/5agLXmyGXYImWKRCs5w_nRAyBnkyZHwGgCLcB/s1600/acoustic_locator_13.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#radar-3 {
+  background: url(http://www.saturdaynightuforia.com/html/articles/articleimages/tsrt-scr270.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom center;
 }
 
 /* SLIDER */
