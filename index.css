@@ -357,6 +357,20 @@ blockquote {
   background-position: bottom center;
 }
 
+#nuke-1 {
+  background: url(https://upload.wikimedia.org/wikipedia/commons/2/2c/AtomicEffects-Hiroshima.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+#nuke-2 {
+  background: url(https://upload.wikimedia.org/wikipedia/commons/1/1a/Atomic_bomb_1945_mission_map.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 /* SLIDER */
 
 .csslider {
