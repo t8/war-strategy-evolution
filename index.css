@@ -29,6 +29,19 @@
   margin-bottom: 20px;
 }
 
+#conclusion-img {
+  background: url(https://upload.wikimedia.org/wikipedia/commons/0/05/Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 10%;
+  height: 10%;
+  min-width: 200px;
+  min-height: 200px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
 /* SCROLL ARROW */
 
 .scroll a {
